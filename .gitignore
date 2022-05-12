@@ -1,1 +1,6 @@
 */bin/*
+*.mp4
+*.zip
+cmake-build-debug
+.idea
+*.pdf
